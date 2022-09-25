@@ -1,3 +1,5 @@
+import "jquery/dist/jquery.min.js";
+import $ from "jquery";
 
 function Soldier(ranking, name, chapter, homePlace, battle, numberOfSoldiers, description, image) {
   this.ranking = ranking;
